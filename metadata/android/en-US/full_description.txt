@@ -1,0 +1,10 @@
+Meet new, exciting people!
+Alovoa is a free and open-source dating application that respects your privacy.
+
+A TWA compatible browser is needed for the best experience.
+
+Tested compatible browsers:
+Fennec, Firefox, Iceraven, Chrome
+
+Tested incompatible browsers:
+Bromite

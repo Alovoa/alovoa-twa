@@ -1,0 +1,1 @@
+Fix white text on white background in the status bar when using Firefox based browsers

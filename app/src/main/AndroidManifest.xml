@@ -12,7 +12,8 @@
             android:resource="@string/asset_statements" />
         <activity
             android:name="com.google.androidbrowserhelper.trusted.LauncherActivity"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:exported="true">
             <meta-data
                 android:name="android.support.customtabs.trusted.DEFAULT_URL"
                 android:value="https://alovoa.com" />

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Alovoa</string>
+    <string name="app_name">Alovoa Lite</string>
     <string name="asset_statements">
         [{
             \"relation\": [\"delegate_permission/common.handle_all_urls\"],

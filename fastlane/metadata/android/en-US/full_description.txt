@@ -1,4 +1,19 @@
-Android application for Alovoa, the open-source dating platform. TWA compatible browser is needed and must be set as the default browser.
+Android application for Alovoa, the open-source dating platform. 
 
-Tested compatible browsers: Fennec, Firefox, Iceraven, Chrome, Chromium
-Tested incompatible browsers: Bromite
+Alovoa aims to be the first widespread platform to meet new people and get dates.
+• No microtransaction
+• No annoying ads
+• No microtransactions
+• No selling your data
+• Strict filters, only see people you want to see
+• Completely free (as in free speech)
+• Completely free (as in free beer)
+
+TWA compatible browser is needed and must be set as the default browser.
+As Mozilla quietly removed TWA support in Firefox, only non-Firefox based browsers are support, except Bromite. Don't worry, a new native app is coming soon!
+
+This version still has several advantages:
+• Faster updates
+• Low footprint
+• Sandboxing
+• Some exclusive features

@@ -1,0 +1,3 @@
+Renamed to "Alovoa Lite" in preparation for native app
+New adaptive icon
+Update external libraries

@@ -1,6 +1,8 @@
 Android application for Alovoa, the open-source dating platform. 
 
-Alovoa aims to be the first widespread platform to meet new people and get dates.
+Alovoa aims to be the first global open-source platform that enables people to easily find new friend and dates.
+
+Our promises:
 • No microtransaction
 • No annoying ads
 • No selling your data
